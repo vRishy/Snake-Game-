@@ -42,6 +42,25 @@ The game loop runs continuously until the player loses, updating the game state 
 
 ## Screenshots
 
+### Main Menu of the Game
+![Picture1](https://user-images.githubusercontent.com/66677354/224468034-4c91d423-8fba-4154-a8eb-abd581173177.png)
+
+### Displaying Game Rules
+![Picture2](https://user-images.githubusercontent.com/66677354/224468062-bb7de408-4c29-461a-9721-0131cd3fcbf4.png)
+
+### Loading Game
+![Picture3](https://user-images.githubusercontent.com/66677354/224468076-6f881477-fc4d-480d-ba64-d799211e83b7.png)
+
+###  Incrementation of Snake Size & Deduction of Lives: 
+![Picture4](https://user-images.githubusercontent.com/66677354/224468087-e55143df-dd4a-4ff4-8198-e2d52e1db5c6.png)
+
+### Game Over -> Loading Out & Exiting the Game: 
+![Uploading Picture5.png…]()
+
+
+
+
+
 
 
 
