@@ -39,3 +39,10 @@ The game is implemented using the Windows Console API for graphics and input han
 
 The game loop runs continuously until the player loses, updating the game state and redrawing the screen with each iteration.
 
+
+## Screenshots
+
+
+
+
+
