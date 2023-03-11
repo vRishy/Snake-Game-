@@ -42,7 +42,7 @@ The game loop runs continuously until the player loses, updating the game state 
 
 ## Screenshots
 
-![Picture1](https://user-images.githubusercontent.com/66677354/224467920-8a76a53d-f539-45a3-bee0-dcd1e18ca4cb.png)
+
 
 
 
