@@ -55,7 +55,8 @@ The game loop runs continuously until the player loses, updating the game state 
 ![Picture4](https://user-images.githubusercontent.com/66677354/224468087-e55143df-dd4a-4ff4-8198-e2d52e1db5c6.png)
 
 ### Game Over -> Loading Out & Exiting the Game: 
-![Uploading Picture5.png…]()
+![Picture5](https://user-images.githubusercontent.com/66677354/224468125-c9722887-e9a8-4d97-b4f0-fcc62b50b454.png)
+
 
 
 
